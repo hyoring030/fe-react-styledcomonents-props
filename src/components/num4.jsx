@@ -15,7 +15,7 @@ const Boxeach = styled.div`
 
 
 const Img= styled.img`
-    content: url(${(props)=> props.url});
+ content:url(${(props) => props.url});
     margin-top :10px;
     width: 180px;
     height: 180px;
